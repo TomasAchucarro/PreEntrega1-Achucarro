@@ -1,0 +1,24 @@
+.container {
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #daeb92;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    margin-right: auto;
+  }
+  
+  .menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .menu a {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  
